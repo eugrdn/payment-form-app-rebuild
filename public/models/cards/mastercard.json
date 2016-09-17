@@ -1,0 +1,9 @@
+{
+	"type": "MasterCard",
+	"first_number": 5,
+	"card_number_length": 16,
+	"security_code_lenght": 3,
+	"logo": "http://s26.postimg.org/iw2z5i4tx/mastercard.png",
+	"hint": "images/card_tooltips/nonamex.png",
+	"regex": "^5[1-5][0-9]{14}$"
+}

@@ -1,0 +1,9 @@
+{
+	"type": "Visa",
+	"first_number": 4,
+	"card_number_length": 16,
+	"security_code_lenght": 3,
+	"logo": "http://s26.postimg.org/crgipaj1x/visa.png",
+	"hint": "images/card_tooltips/nonamex.png",
+	"regex": "^4[0-9]{12}(?:[0-9]{3})?$"
+}

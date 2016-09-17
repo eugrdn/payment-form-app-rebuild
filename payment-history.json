@@ -1,0 +1,40 @@
+{
+  "amount": "300",
+  "type": "American Express",
+  "currency": "euro",
+  "nameOnCard": "TOM CAT",
+  "cardNumber": "3443123123123123",
+  "expiryDate": "1220",
+  "securityCode": "1232",
+  "createdAt": 1474057942716
+}
+{
+  "amount": "100",
+  "type": "MasterCard",
+  "currency": "pound",
+  "nameOnCard": "SOME GUY",
+  "cardNumber": "5111231232132131",
+  "expiryDate": "0912",
+  "securityCode": "123",
+  "createdAt": 1474057986188
+}
+{
+  "amount": "412313",
+  "type": "MasterCard",
+  "currency": "dollar",
+  "nameOnCard": "ASDAASDSDS",
+  "cardNumber": "5444444444444444",
+  "expiryDate": "0124",
+  "securityCode": "123",
+  "createdAt": 1474139765160
+}
+{
+  "amount": "3123213",
+  "type": "MasterCard",
+  "currency": "dollar",
+  "nameOnCard": "ASDASD ASD ASD",
+  "cardNumber": "5555555555555555",
+  "expiryDate": "0444",
+  "securityCode": "333",
+  "createdAt": 1474140892806
+}

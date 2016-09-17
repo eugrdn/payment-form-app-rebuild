@@ -1,0 +1,8 @@
+{
+	"type": "none",
+	"first_number": "",
+	"card_number_length": 16,
+	"security_code_lenght": 0,
+	"logo": "",
+	"hint": "images/card_tooltips/none.png"
+}

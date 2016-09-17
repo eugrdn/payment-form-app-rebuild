@@ -1,0 +1,9 @@
+{
+	"type": "American Express",
+	"first_number": 3,
+	"card_number_length": 16,
+	"security_code_lenght": 4,
+	"logo": "http://s26.postimg.org/k0sfx51x1/amex.png",
+	"hint": "images/card_tooltips/amex.png",
+	"regex": "^3[47][0-9]{0,}$"
+}
