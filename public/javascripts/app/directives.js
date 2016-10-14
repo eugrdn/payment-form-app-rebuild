@@ -13,7 +13,7 @@
 
 	function nameValidate() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			require: 'ngModel',
 			link: function(scope, elt, attrs, ngModel) {
 
@@ -44,7 +44,7 @@
 
 	function capitalize() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			require: 'ngModel',
 			link: function(scope, elt, attrs, ngModel) {
 
@@ -66,7 +66,7 @@
 
 	function onlyDigits() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			require: 'ngModel',
 			link: function(scope, elt, attrs, ngModel) {
 
@@ -78,7 +78,7 @@
 
 	function stopCCP() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			scope: {},
 			link: function(scope, elt) {
 
@@ -93,7 +93,7 @@
 
 	function amountMask() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			require: 'ngModel',
 			link: function(scope, elt, attrs, ngModel) {
 
@@ -115,7 +115,7 @@
 
 	function dateMask() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			require: 'ngModel',
 			link: function(scope, elt, attrs, ngModel) {
 
@@ -140,7 +140,7 @@
 
 	function cardMask() {
 		return {
-			restict: 'A',
+			restrict: 'A',
 			require: 'ngModel',
 			link: function(scope, elt, attrs, ngModel) {
 
