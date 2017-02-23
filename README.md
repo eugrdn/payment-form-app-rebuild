@@ -17,7 +17,7 @@ Task conditions and restrictions:
 ## Installation
 
 ```bash
-git clone https://github.com/rodinwow/payment-form-app-rebuild.git
+git clone https://github.com/eugrdn/payment-form-app-rebuild.git
 cd payment-form-app-rebuild-master
 npm install
 npm start
@@ -27,3 +27,7 @@ http://localhost:3000
 
 # P.S. 
 The history of payment transfers can be found in `payment-history.json`.
+
+### Preview:
+
+![alt tag](https://github.com/eugrdn/screenshots/blob/master/payment-form.png)

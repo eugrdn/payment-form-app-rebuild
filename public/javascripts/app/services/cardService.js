@@ -1,4 +1,6 @@
 (function() {
+	'use strict';
+
 	angular.module('paymentApp.services')
 		.factory('cardService', cardService);
 
@@ -10,6 +12,7 @@
 		factory.getCardInfo = function(card) {
 			return $http.get('/models/cards/'+card+'.json');
 		};
+		
 		return factory;
 	}
 
